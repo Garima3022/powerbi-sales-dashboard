@@ -54,6 +54,3 @@ The project focuses on transforming raw sales data into meaningful business insi
 
 
 
-
-```markdown
-![Dashboard Preview](your-image-link-here)
